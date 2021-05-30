@@ -13,7 +13,7 @@ Confronted by important business yet can't help messing around? This repo keeps 
 8. Keep the executable file CAREFULLY. 
 
 Your password as well as the recovery e-mail will be unavailable until the designated time.
-Works well on myself.
 
+#### Works well for me, so far.
 #### This repo is just for fun. There is no guarantee that you will not lose your account permanently.
 
