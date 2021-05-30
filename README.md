@@ -15,5 +15,5 @@ Confronted by important business yet can't help messing around? This repo keeps 
 Your password as well as the recovery e-mail will be unavailable until the designated time.
 
 #### Works well for me, so far.
-#### This repo is just for fun. There is no guarantee that you will not lose your account permanently.
+#### This repo is just for fun. There is no guarantee that you will not lose your account permanently. On the other hand, you might be able perform reverse engineering.
 
