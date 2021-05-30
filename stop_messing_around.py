@@ -30,6 +30,6 @@ def check_time(url, target):
 
 if __name__ == '__main__':
     url = 'http://www.baidu.com'
-    target = (2021, 5, 15, 12, 22, 30, 1, 1, 1)
+    target = (2021, 6, 15, 12, 22, 30, 1, 1, 1)
     check_time(url, target)
     input('Press <Enter>')
