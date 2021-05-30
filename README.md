@@ -5,7 +5,7 @@ Confronted by important business yet can't help messing around? This repo keeps 
 ## Instructions
 1. Set the date & time you would like to access to your account again;
 2. Create a new recovery e-mail, use NO recovery method (in my case, protonmail);
-3. Set a random password, which is impossible to remenber, for the new e-mail ;
+3. Set a random password, which is impossible to remember, for the new e-mail ;
 4. Change the password of your video game account, on a similar basis;
 5. Fill the account details above;
 6. Export the project as an executable file;
